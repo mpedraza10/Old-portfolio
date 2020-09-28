@@ -284,14 +284,14 @@ main {
 
 .about-me-container {
     display: flex;
+    width: 100%;
 }
 
-.about-me img {
-    width: 340px;
-    max-height: 631px;
-    height: auto;
+.about-me-img img {
+    width: 400px;
     border: 2px solid orangered;
     border-radius: 20px;
+    margin: 20px 0;
 }
 
 @media only screen and (max-width: 1048px) {
