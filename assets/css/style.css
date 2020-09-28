@@ -287,7 +287,7 @@ main {
     width: 100%;
 }
 
-.about-me-img img {
+.about-me-img-container img {
     width: 400px;
     border: 2px solid orangered;
     border-radius: 20px;
