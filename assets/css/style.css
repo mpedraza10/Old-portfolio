@@ -354,6 +354,10 @@ article {
     border: 2px solid orangered;
 }
 
+article:hover {
+    box-shadow: 0 0 10px 5px;
+}
+
 .projects-header {
     margin: 10px;
 }
