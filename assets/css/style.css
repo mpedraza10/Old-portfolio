@@ -42,6 +42,7 @@ header {
     text-decoration: none;
     text-transform: uppercase;
     color: orangered;
+    text-shadow: 1px 1px 2px black;
 }
 
 .nav-links {
@@ -188,6 +189,7 @@ main {
     font-size: 80px;
     text-transform: uppercase;
     border-bottom: 2px solid orangered;
+    text-shadow: 1px 1px 2px black;
 }
 
 .main-text h2 {
@@ -271,6 +273,8 @@ main {
     font-size: 70px;
     border-bottom: 2px solid orangered;
     margin-bottom: 20px;
+    color: orangered;
+    text-shadow: 1px 1px 2px black;
 }
 
 .about-me .about-me-subtitle {
@@ -336,6 +340,8 @@ main {
     font-size: 70px;
     border-bottom: 2px solid orangered;
     margin-bottom: 20px;
+    color: orangered;
+    text-shadow: 1px 1px 2px black;
 }
 
 .posts {
@@ -349,7 +355,7 @@ article {
     background-color: white;
     margin: 10px;
     height: auto;
-    width: 550px;
+    width: 500px;
     border-radius: 20px;
     border: 2px solid orangered;
 }
@@ -372,7 +378,7 @@ article:hover {
 }
 
 article img {
-    width: 546px;
+    width: 496px;
     height: 398.67px;
     margin: 20px 0;
 }
