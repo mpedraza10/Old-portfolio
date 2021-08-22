@@ -35,6 +35,8 @@ header {
     border-bottom: 2px solid orangered;
     background-color: white;
     align-items: center;
+    position: fixed;
+    width: 100%;
 }
 
 .logo a {
@@ -331,9 +333,18 @@ main {
 
 /* Projects page */
 
+.pdf-container {
+    margin: 80px auto 0 auto;
+    width: 100%;
+}
+
+embed:focus {
+    outline: none;
+  }
+
 .projects-container {
     width: 80%;
-    margin: 0 auto;
+    margin: 80px auto 0 auto;
 }
 
 .projects-title-description .page-title {
