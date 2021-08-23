@@ -180,6 +180,7 @@ nav .nav-item {
 
 main {
     width: 100%;
+    margin: 80px auto;
 }
 
 .main-text {
@@ -304,7 +305,7 @@ main {
 @media only screen and (max-width: 1048px) {
     .about-me {
         text-align: center;
-        margin: 0 auto;
+        margin: 80px auto;
     }
 
     .about-me-container {
