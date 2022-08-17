@@ -70,6 +70,10 @@ nav .nav-item {
     list-style: none;
 }
 
+.nav-toggle {
+    display: none;
+}
+
 @media only screen and (max-width: 958px) {
     .nav {
         position: fixed;
@@ -111,6 +115,7 @@ nav .nav-item {
     }
     
     .nav-toggle {
+        display: block;
         padding: .5em;
         background: transparent;
         border: 0;
